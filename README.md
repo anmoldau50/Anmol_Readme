@@ -13,6 +13,6 @@ As a curious and enthusiastic learner, I am always eager to explore new technolo
 
 Thank you for taking the time to learn more about me. Please feel free to connect with me to discuss any opportunities or collaborations.
 
-## Find me around the web 🌎: <a href="https://github.com/anmoldau50"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+## Find me around the web 🌎: <a href="https://github.com/anmoldau50"><img align="left" width="150" height="150" src="https://github-production-user-asset-6210df.s3.amazonaws.com/112110166/269096874-6bea1068-7cb9-4442-a439-e24b23961d28.jpg?raw=true"></a>
 - Learning in public on <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
 - Sharing updates on <a href="https://www.linkedin.com/in/anmoldau50/">LinkedIn</a> 💼
