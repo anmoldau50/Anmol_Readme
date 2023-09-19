@@ -1,6 +1,6 @@
 # Hi, I'm Anmol 👋🏾 👩🏾‍💻
 
-<img src="https://raw.githubusercontent.com/Anmol_Readme/master/clipart.jpg" alt="banner that says anmol">
+<img src="https://raw.githubusercontent.com/Anmol_Readme/clipart.jpg" alt="banner that says anmol">
 Hello, and thank you for visiting my LinkedIn profile!
 
 I am a final year B.Tech(2020-24) Computer Science student currently pursuing my degree from KIET Group of Institutions Ghaziabad. My passion for technology and computer science has driven me to excel in my studies and pursue a career in this field.
