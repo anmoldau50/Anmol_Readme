@@ -1,6 +1,10 @@
 # Hi, I'm Anmol 👋🏾 👩🏾‍💻
 
-![clipart](https://github.com/anmoldau50/Anmol_Readme/assets/112110166/6bea1068-7cb9-4442-a439-e24b23961d28)
+
+<img src="https://github.com/anmoldau50/Anmol_Readme/assets/112110166/f81b5e1a-0658-44a8-b91e-dda6a8ed2605" alt="anmol_Banner">
+
+
+
 
 Hello, and thank you for visiting my LinkedIn profile!
 
